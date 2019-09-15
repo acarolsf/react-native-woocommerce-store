@@ -5,6 +5,8 @@ Learning React Native with Wordpress integration
 
 `npm install -g create-react-native-app`
 
+`npm install -g expo-cli`
+
 `npm install -s axios react-native-htmlview react-navigation react-redux redux redux-thunk`
 
 `npm start`
